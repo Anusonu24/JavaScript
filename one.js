@@ -3,9 +3,9 @@ let rating = 4.9;
 let name = "iphone 5s";
 let avail = 'y'
 let discount = true
-let availability;
+let availability
 
-console.log(price)
+console log(price)
 console.log(typeof price)
 console.log(typeof rating)
 console.log(typeof name)

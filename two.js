@@ -1,9 +1,9 @@
-//create
+/create
 let a = 10
 
 //read
 console.log(a)
 
-//update
+/update
 a = "rahul"
 console.log(a)
