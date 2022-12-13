@@ -23,7 +23,6 @@ class Account {
 }
 let a1 = new Account();
 console.log(a1)
-
 console.log(a1.min_Bal)
 a1.open_Account()
 a1.deposit_Amount()
