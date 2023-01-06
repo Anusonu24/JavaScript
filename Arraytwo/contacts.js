@@ -1,4 +1,5 @@
-let contact = [{ id: 101, name: "rahul" },
+let contact = [{ id: 101, name: "rahul" 
+] },
 { id: 102, name: "RITHU" },
 { id: 103, name: "IMAD"}]
 
